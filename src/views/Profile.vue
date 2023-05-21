@@ -5,10 +5,8 @@
       <section class="relative block h-500-px">
         <div
           class="absolute top-0 w-full h-full bg-center bg-cover"
-          style="
-            background-image: url('https://images.unsplash.com/photo-1499336315816-097655dcfbda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2710&q=80');
-          "
         >
+        <img src="../assets/img/register_bg_3.svg" alt="">
           <span
             id="blackOverlay"
             class="w-full h-full absolute opacity-50 bg-black"
